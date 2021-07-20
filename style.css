@@ -48,8 +48,8 @@ h1 {
   width: 170px;
   height: 118px;
   position: absolute;
-  top: 320px;
-  right: 630px;
+  top: calc(50% - 118px / 2);
+  left: calc(50% - 170px / 2);
   /*
 		kočka nejraději honí motýly přesně
 		uprostřed domečku, protože tam má na
